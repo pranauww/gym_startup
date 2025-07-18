@@ -25,7 +25,7 @@ gym_app/
 
 ### 1. Clone the repo
 ```sh
-git clone <repo-url>
+git clone https://github.com/pranauww/gym_startup.git
 cd gym_app
 ```
 
